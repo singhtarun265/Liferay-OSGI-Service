@@ -1,0 +1,5 @@
+Bundle-Name: osgi-bundle
+Bundle-SymbolicName: com.liferay.osgi.bundle
+Bundle-Version: 1.0.0
+Bundle-Activator: com.liferay.osgi.bundle.OsgiBundlecomponent
+Export-Package: com.liferay.osgi.component
